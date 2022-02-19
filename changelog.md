@@ -1,0 +1,2 @@
+# UniChatJsServer Changelog
+* Initial setup.

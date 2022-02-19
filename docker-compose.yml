@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  unichatjs:
+    build: .
+    container_name: unichatjs_server
+    expose:
+      - 9000
+    ports:
+      - "9000:9000"
